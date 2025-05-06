@@ -6,17 +6,6 @@ Este programa Java simples coleta e exibe informações sobre sessões de **Fono
 
 - Cadastro do nome do paciente;
 - Cálculos automáticos por especialidade.
-  
-## Estrutura do Projeto
-
-O projeto é composto por três arquivos principais:
-
-```
-src/
-  ├── Main.java         # Classe principal, coleta dados e exibe informações
-  ├── Paciente.java     # Representa o paciente e organiza os dados
-  └── Sessao.java       # Representa uma sessão de terapia (fono ou TO)
-```
 
 ## Exemplo de uso
 
